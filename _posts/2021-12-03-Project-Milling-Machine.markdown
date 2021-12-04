@@ -19,7 +19,7 @@ Personally I consider myself as mostly an analytical person. Someone who wants t
 
 I believe in facts and research. In this milling project, we made sure to choose an audience that had real objectives and constraints rather than having no audience. Moreover, we wrote the specifications rigorously. We had high-level and low-level objectives; we had metric, criteria and constraint for all the objectives. 
 
-![](/assets/img/Milling_Objective.png)
+<div style="text-align:center"><img src="/assets/img/Milling_Objective.png" /></div>
 *One of the low-level objectives for the milling machine design*
 
 ### Audience:
@@ -31,4 +31,6 @@ The audience for our project was NASA. NASA as part of their ***In-Space Manufac
 Therefore, NASA after successfully using a 3D printer in space has published a proposal for a more complicated machine capable of machining metals. I was extremely delighted with this project, since I felt I was part of a big mission with a big purpose, even though we were not an official contractor. 
 
 [NASA proposal is available here](https://govtribe.com/file/government-file/nnhzcq001kismfablab-ism-fablab-nextstep-2-baa-amendment-2-dot-pdf).
+
+### Leadership:
 
