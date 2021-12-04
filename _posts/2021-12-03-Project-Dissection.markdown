@@ -18,9 +18,10 @@ What did I learn?
 
 Firstly, we started considering various options to achieve a **colinear** gearbox with a **12:1** ratio. The options included parallel gear design with spur, helical or herringbone, and also planetary gears. As a group, we decided to go with spur gears due to the limitations we had with SolidWorks Toolbox capability and the time constraint of the assignment. 
 
-![](Gearbox_Calc.jpeg)
-*The calculations I did relating to gear ratios, teeth and centre to centre distance to achieve the colinar design*.
+![](/assets/img/Gearbox_Calc.jpeg)
+*The calculations I did relating to gear ratios, teeth and centre to centre distance to achieve the colinar design*
 
 Secondly, I began to do various calculations to achieve the specifications we had set. The initial calculations were able to achieve the 12:1 ratio but not the colinear design. However, by doing some iterations and changing teeth number I was able to overcome it. 
+
 
 
