@@ -23,3 +23,7 @@ I started with sanding. When I joined Blue Sky, my first day a disaster happened
 
 After the sanding, we transported the plug to Simcoe, Ontario where we make the mould. However, to make a mould a chain of events needs to happen. First, we used primer, then making a structure where the mould can stand on, we need to put release so the mould can detach from the plug later on. The amnount of work is unimaginable. 
 
+Finally, we do a lot of testing before doing the actual job on the car. We are testing with carbon-fiber composites on a small 3D printed version of the car.
+
+![](/assets/img/Blue_Vacuum.jpg)
+*Vacuum bagging to make carbon-fibre composites*
