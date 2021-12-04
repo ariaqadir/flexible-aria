@@ -60,7 +60,7 @@ Labelling all the components was my **greatest idea**. I was able to print all o
 
 ### IKEA Instructions:
 
-![](/assets/img/Gearbox_Intructions.jpg)
+![](/assets/img/Gearbox_Ins.jpg)
 *The IKEA instructions using SolidWorks Composer*
 
 I handled the full responsibility of creating the assembly instructions. I created the instructions with SolidWorks Composer; a program I had no experience at before this and I was able to learn it in 2 hours. I am very glad how the results turned out for the instructions since it was excatly what the instructors where looking for. 
