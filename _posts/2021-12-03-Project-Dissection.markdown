@@ -23,7 +23,23 @@ Firstly, we started considering various options to achieve a **colinear** gearbo
 
 Then, I began to do various calculations to achieve the specifications we had set. The initial calculations were able to achieve the 12:1 ratio but not the colinear design. However, by doing some iterations and changing teeth number I was able to overcome it. 
 
-Next, I designed the gears with solidworks. SolidWorks has a tooldbox feature where gears can be created with specific parameters. 
+Next, I designed the gears with solidworks. SolidWorks has a toolbox feature where gears can be created with specific parameters. When the other team members finished the housing and shaft we began to 3D print our first iteration.
+
+**First Iteration:**
+
+![](/assets/img/First_Gearbox.jpg)
+*First iteration of the gearbox*
+
+The first iteration of the gearbox had huge issues. Including: 
+- The shaft tolerance was too much, this caused the gear to slide over the shaft.
+- The components were very small due to scaling the whole design by 60%. We had to do this due to the 6 hour printing constraint.
+- Assembly was non intuitive 
+
+**First Iteration:**
+
+![](/assets/img/Second_Gearbox.jpg)
+*Second iteration of the gearbox*
+
 
 [![Final Gearbox Video](http://img.youtube.com/vi/C8lsUloqn5k/0.jpg)](http://www.youtube.com/watch?v=C8lsUloqn5k)
 
