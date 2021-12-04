@@ -23,7 +23,7 @@ I take huge risks. I came to Canada from Iraq when I was 19 years old, alone. I 
 I consider myself a compassionate engineer. I like to be a part of an innovative mission where radical changes are made. Finally, I am someone who does the work. I spend a lot of time getting something done and I do not like to lower my standards.
 
 
-# My future career, ***As of now, susceptible to revision***
+# My future career ***(susceptible to revision)***
 
 I want to start an engineering company, even if it fails. Engineering is a wonderful field where it gives you the potential to build great ventures. If anyone builds a company it should be an engineer. Currently, I do not have an idea for a company. Therefore, in the short term, the plan might be different. 
 
