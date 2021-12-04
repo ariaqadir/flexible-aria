@@ -23,5 +23,5 @@ Firstly, we started considering various options to achieve a **colinear** gearbo
 
 Secondly, I began to do various calculations to achieve the specifications we had set. The initial calculations were able to achieve the 12:1 ratio but not the colinear design. However, by doing some iterations and changing teeth number I was able to overcome it. 
 
-
+![Final Gearbox Video](http://img.youtube.com/vi/C8lsUloqn5k/0.jpg)](http://www.youtube.com/watch?v=C8lsUloqn5k)
 
