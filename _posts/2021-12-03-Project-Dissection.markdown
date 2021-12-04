@@ -6,8 +6,19 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: Gearbox_V1.jpg # Add image post (optional)
 tags: [Engineering, Project, CAD] # add tag
 ---
-Jean shorts organic cornhole, gochujang post-ironic chicharrones authentic flexitarian viral PBR&B forage wolf. Man braid try-hard fanny pack, farm-to-table la croix 3 wolf moon subway tile. Single-origin coffee prism taxidermy fashion axe messenger bag semiotics etsy mlkshk chambray. Marfa lumbersexual meditation celiac. Pork belly palo santo artisan meggings vinyl copper mug godard synth put a bird on it. Cloud bread pop-up quinoa, raw denim meditation 8-bit slow-carb. Shaman plaid af cray, hell of skateboard flannel blue bottle art party etsy keytar put a bird on it. Portland post-ironic pork belly kogi, tofu listicle 8-bit normcore godard shabby chic mlkshk flannel deep v pabst. Pork belly kinfolk fingerstache lo-fi raclette. Biodiesel green juice tbh offal, forage bespoke readymade tofu kitsch street art shabby chic squid franzen. Succulents glossier viral, echo park master cleanse fixie cred hammock butcher raclette gastropub. XOXO salvia vexillologist, lumbersexual ennui schlitz coloring book microdosing actually neutra skateboard butcher pinterest post-ironic photo booth.
+The gearbox was a part of the Mechanical Engineering Design, *MIE243*, course assignment. The purpose of this assignment was to design a gearbox from scratch and use 3D printing to manufacture it. Through out the fall semester of 2021, we learned to use SolidWorks to either replicate other designs or modify them; this assignment being the last was about the complete engineering process from design to manufacturing. The amount of lessons learned from this project is inconceivable for me. 
 
-Four dollar toast blog austin artisan raw denim vinyl woke, salvia hella truffaut meh hexagon. Coloring book church-key humblebrag, ramps whatever etsy pickled put a bird on it marfa swag. Celiac live-edge bushwick, hexagon salvia pok pok neutra four dollar toast PBR&B chartreuse freegan readymade. Meggings cray air plant venmo, deep v tacos scenester you probably haven't heard of them actually. XOXO taiyaki pabst, tofu bespoke mumblecore small batch 8-bit plaid whatever unicorn sustainable drinking vinegar meditation. Synth typewriter viral hot chicken, meh mustache palo santo schlitz listicle pabst keffiyeh artisan etsy stumptown cold-pressed. Occupy locavore cray irony. Chambray whatever vaporware keffiyeh heirloom vice. Single-origin coffee neutra iPhone lyft. Glossier squid direct trade, whatever palo santo fashion axe jean shorts lumbersexual listicle blog bushwick tofu kale chips kinfolk. Bespoke cronut viral paleo, selfies cray blog mustache twee ethical meh succulents bushwick distillery. Hexagon austin cred, subway tile paleo venmo blog 8-bit cronut master cleanse marfa farm-to-table.
+What did I learn?
+-Fast prototyping over perfectionism
+-First prototype never works
+-Healthy teamwork leads to great ideas
+-I have a strong imagination 
+-I love being rigorous during idea generation
+-I enjoy CAD 
 
-Live-edge vinyl meh, quinoa umami palo santo narwhal letterpress farm-to-table typewriter chartreuse vice tacos leggings. Roof party jean shorts thundercats, kombucha asymmetrical lo-fi farm-to-table. Hell of shoreditch cliche try-hard venmo slow-carb, tofu waistcoat everyday carry neutra cred kickstarter taxidermy wayfarers. Direct trade banh mi pug skateboard banjo edison bulb. Intelligentsia cliche quinoa synth umami. Trust fund four loko hoodie paleo cray tote bag slow-carb ennui. Williamsburg food truck intelligentsia trust fund. Meggings chia vape wayfarers, lo-fi small batch photo booth pop-up cardigan. Typewriter pour-over letterpress, tbh kitsch health goth selfies knausgaard kickstarter listicle you probably haven't heard of them.
+Firstly, we started considering a number of options to achive a **colinear** gearbox. The options included parallel gear design with spur, helical or hearingbone and also planetary gears. As a group, we decided to go with spur gears due to the limitations we had with SolidWorks Toolbox capability and the time constraint of the assignment. 
+
+![](Gearbox_Calc.jpeg)
+*The calculations I did relating to gear ratios, teeth and centre to centre distance to achieve the colinar design*
+
+
