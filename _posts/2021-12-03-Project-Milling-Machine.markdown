@@ -34,3 +34,6 @@ Therefore, NASA after successfully using a 3D printer in space has published a p
 
 ### Leadership:
 
+Leadership is about having a vision and driving others toward it. Leadership is a hard concept to talk about since there are confussion about being a leader and being a mabager/boss. I believe leaders motivate others toward a common goal of excellence. 
+
+During this project I was responsible for making sure we meet the deadlines with high quality results. I was responsible for making a roadmap, scheduling meeting and making agendas. The biggest lesson I learn is if you want to make someone do something, you need to make them want to do it. 
