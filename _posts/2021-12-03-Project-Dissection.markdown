@@ -25,6 +25,9 @@ Then, I began to do various calculations to achieve the specifications we had se
 
 Next, I designed the gears with solidworks. SolidWorks has a toolbox feature where gears can be created with specific parameters. When the other team members finished the housing and shaft we began to 3D print our first iteration.
 
+![](/assets/img/Gear_Render.jpg)
+*My CAD spur gear design*
+
 **First Iteration:**
 
 ![](/assets/img/First_Gearbox.jpg)
