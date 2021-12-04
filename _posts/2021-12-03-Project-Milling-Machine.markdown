@@ -19,7 +19,7 @@ Personally I consider myself as mostly an analytical person. Someone who wants t
 
 I believe in facts and research. In this milling project, we made sure to choose an audience that had real objectives and constraints rather than having no audience. Moreover, we wrote the specifications rigorously. We had high-level and low-level objectives; we had metric, criteria and constraint for all the objectives. 
 
-<div style="text-align:center"><img src="/assets/img/Milling_Objective.png" /></div>
+![](/assets/img//assets/img/Milling_Objective.png)
 *One of the low-level objectives for the milling machine design*
 
 ### Audience:
@@ -36,4 +36,4 @@ Therefore, NASA after successfully using a 3D printer in space has published a p
 
 Leadership is about having a vision and driving others toward it. Leadership is a hard concept to talk about since there are confussion about being a leader and being a mabager/boss. I believe leaders motivate others toward a common goal of excellence. 
 
-During this project I was responsible for making sure we meet the deadlines with high quality results. I was responsible for making a roadmap, scheduling meeting and making agendas. The biggest lesson I learn is if you want to make someone do something, you need to make them want to do it. 
+During this project I was responsible for making sure we meet the deadlines with high quality results. I was responsible for making a roadmap, scheduling meeting and making agendas. The biggest lesson I learn is if you want to make someone do something, you need to make them want to do it.
