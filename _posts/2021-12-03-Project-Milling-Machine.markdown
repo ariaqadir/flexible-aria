@@ -19,7 +19,7 @@ Personally I consider myself as mostly an analytical person. Someone who wants t
 
 I believe in facts and research. In this milling project, we made sure to choose an audience that had real objectives and constraints rather than having no audience. Moreover, we wrote the specifications rigorously. We had high-level and low-level objectives; we had metric, criteria and constraint for all the objectives. 
 
-![](/assets/img//assets/img/Milling_Objective.png)
+![](/assets/img/Milling_Objective.png)
 *One of the low-level objectives for the milling machine design*
 
 ### Audience:

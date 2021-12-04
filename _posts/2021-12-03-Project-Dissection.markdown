@@ -68,4 +68,5 @@ I handled the full responsibility of creating the assembly instructions. I creat
 
 
 [![Final Gearbox Video](http://img.youtube.com/vi/C8lsUloqn5k/0.jpg)](http://www.youtube.com/watch?v=C8lsUloqn5k)
+*Youtube Video*
 
