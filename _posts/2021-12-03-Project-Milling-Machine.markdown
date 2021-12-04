@@ -5,7 +5,7 @@ date: 2021-12-03 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: Milling_Render_2KV2.JPG # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Productivity, Workflow] # add tag
+tags: [Project, School, Leadership, Milling] # add tag
 ---
 
 This project consisted of designing an entry-level professional milling machine. The project lasted the whole semester of fall 2021, where I and 3 others formed a group to take on this task. I was the leader of the group and that came with a lot of struggles and lessons. I would like to talk about some highlights that I believe are of value such as being rigorous, audience, and leadership. 
