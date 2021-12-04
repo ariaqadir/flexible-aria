@@ -28,7 +28,7 @@ Next, I designed the gears with solidworks. SolidWorks has a toolbox feature whe
 ![](/assets/img/Gear_Render.jpg)
 *My CAD spur gear design*
 
-**First Iteration:**
+### First Iteration:
 
 ![](/assets/img/First_Gearbox.jpg)
 *First iteration of the gearbox*
@@ -40,7 +40,7 @@ The first iteration of the gearbox had huge issues. Including:
 4. Design was not colinear due to wrong calculations I made.
 5. The shafts were sliding and falling over since there was no restriction 
 
-**Second Iteration:**
+### Second Iteration:
 
 ![](/assets/img/Second_Gearbox.jpg)
 *Second iteration of the gearbox*
@@ -49,7 +49,7 @@ The second iteration solved some issues, however these issues still persisted:
 1. Too much tolerance and the gear was sliding over the shaft.
 2. The labeling on the components was not able to print properly since they were to thin.
 
-**Final Iteration:**
+### Final Iteration:
 
 ![](/assets/img/Gearbox_V1.jpg)
 *Final iteration of the gearbox*
@@ -58,7 +58,7 @@ This iteration solved *almost all* the issues. The tolerance was a persistent is
 
 Labelling all the components was my **greatest idea**. I was able to print all of them during the final iteration. This really helped to make the instructions clearer which I will explain later. 
 
-**IKEA Instructions:**
+### IKEA Instructions:
 
 ![](/assets/img/Gearbox_Intructions.jpg)
 *The IKEA instructions using SolidWorks Composer*
