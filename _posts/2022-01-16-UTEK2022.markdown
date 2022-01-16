@@ -3,7 +3,7 @@ layout: post
 title: UTEK Trash Collector
 date: 2022-01-16 00:00:00 -0500
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: UTEK1.jpg # Add image post (optional)
+img: UTEK2.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Competition] # add tag
 ---
@@ -16,5 +16,5 @@ The final design was modifying the car with the parts given to all the teams, an
 2. A shovel was added to the other end of the car to move trash around obstacles. 
 3. A magnet that was able to pick up a coin at a certain height. 
 
-![](/assets/img/UTEK2.jpg)
+![](/assets/img/UTEK1.jpg)
 
