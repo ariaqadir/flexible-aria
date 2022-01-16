@@ -1,0 +1,20 @@
+---
+layout: post
+title: UTEK Trash Collector
+date: 2022-01-16 00:00:00 -0500
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: UTEK1.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Competition] # add tag
+---
+
+UNIVERSITY OF TORONTO ENGINEERING KOMPETITIONS (UTEK) is an engineering competition which takes place yearly. I was part of a 4 member team participating in the event. The theme of this year was "Earth" and the challenge was about designing a car that is able to collect the most amount of trash in 1.5 minutes. Creativity and uniqueness were also considered. 
+
+The final design was modifying the car with the parts given to all the teams, and our team's car consisted of three major tools.
+
+1. The main tool was a rotating "brush" sweeping the waste under the car. 
+2. A shovel was added to the other end of the car to move trash around obstacles. 
+3. A magnet that was able to pick up a coin at a certain height. 
+
+![](/assets/img/UTEK2.jpg)
+
