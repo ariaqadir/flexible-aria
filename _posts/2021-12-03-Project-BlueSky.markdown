@@ -7,8 +7,9 @@ img: shannonville.JPG # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Teamwork, Club, Engineering]
 ---
+<p style="text-align: center;">Blue Sky Solar Racing website: <www.blueskysolar.org></p>
 
-Blue Sky Solar Racing is all I love about engineering combined into a single club. Blue Sky Solar is about designing a fast, efficient car using solar and battery alone cable of driving in australia's outback, from Darwin to Adelaide. This club is so diverse where brilliant students from all the engineering majors come and join ranging from software, electrical, mechanical, and students studying maths and physics. 
+Blue Sky Solar Racing is a student lead design team at the University of Toronto. 
 
 ### Diversity in engineering:
 
