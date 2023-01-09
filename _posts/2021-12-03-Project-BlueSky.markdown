@@ -49,7 +49,7 @@ The forces on the suspension system are used for all mechanical and structural s
 
 The dynamic loads on each wheel can be calculated after finding the lateral and longitudinal weight transfer for different scenarios. These loads are applied to the wheel and using force body diagrams, we can calculate the forces on the mechanical components such as the lower control arm, upright, and upper control arm for our solar car, Borealis. 
 
-![](/assets/img/FBD.jpeg)
+![](/assets/img/FBD.jpg)
 
 #### Spring rates, Preload, and Shocks
 
