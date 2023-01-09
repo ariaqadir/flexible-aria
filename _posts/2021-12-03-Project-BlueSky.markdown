@@ -63,7 +63,7 @@ Currently, these calculations have been performed. Moreover, I am in the process
 
 The solar car’s top shell needs to be opened for the driver to exit the car and the array to be orthogonal to the sun during charging. Utilizing Ansys, I was able to analyze the four-bar mechanism used to open and close the top shell. 
 
-![](/assets/img/top opening.mp4)
+[![](ansys.jpg)](https://www.youtube.com/watch?v=_3VnMIyA7GE)
 
 #### Battery Thermal Analsys
 
