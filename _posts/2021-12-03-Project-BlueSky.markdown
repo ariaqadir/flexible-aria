@@ -9,22 +9,62 @@ tags: [Teamwork, Club, Engineering]
 ---
 Blue Sky Solar Racing website: www.blueskysolar.org
 
-Blue Sky Solar Racing is a student lead design team at the University of Toronto. 
+# Tablle of Contents
 
-### Diversity in engineering:
+1. [Blue Sky Solar Racing](###Blue Sky Solar Racing)
+2. [My Role as Chief Engineer](#My Role as Chief Engineer)
+3. [Design of the Solar Car](#Design of the Solar Car)
+4. [Manufacturing of the Solar Car](#Manufacturing of the Solar Car)
+5. [Testing of the Solar Car](#Testing of the Solar Car)
 
-This club reflects what I want to do in the future. I love a place where diversity is a major core of the environment. Currently, I am a member of fabrication where we are responsible for manufacturing the car from scratch. However, it's very easy for me to transition to the other parts of the team such as moving to array, mechanical, or the electrical subteam. 
+### Blue Sky Solar Racing
 
-![](/assets/img/Blue_Plug_Support.jpg)
-*The support structure for the plug. The car design starts with a plug, then a mold and finally the composite body*
+Blue Sky Solar Racing is a student lead design team at the University of Toronto, that has built and raced solar cars for over 25 years. Currently, we are building our 11th generation car to race in the [World Solar Challenge](https://www.worldsolarchallenge.org/) of 2023. 
 
-### How I began:
+The team is composed of 50 students and 9 subteams.
 
-I started with sanding. When I joined Blue Sky, my first day a disaster happened. The high-density foam layers were separated from each other. We began doing *Bondo* and sanding for an entire month almost every day. The first thing I learned was fabrication is far from perfect. What you design in CAD is easy, the manufacturing is miles harder. 
+![](/assets/img/Technical.jpg)
 
-After the sanding, we transported the plug to Simcoe, Ontario where we make the mold. However, to make a mold a chain of events needs to happen. First, we used primer, then made a structure where the mold can stand on it, we need to put release so the mold can detach from the plug later on. 
+### My Role as Chief Engineer
 
-Finally, we do a lot of testing before doing the actual job on the car. We are testing with carbon-fiber composites on a small 3D-printed version of the car.
+I have taken the role of Chief Engineer from September 2022 until the race in October 2023. As a chief engineer, I have several major responsibilities:
 
-![](/assets/img/Blue_Vacuum.jpg)
-*Vacuum bagging to make carbon-fibre composites*
+1. Create timelines for technical subteams
+2. Ensure compliance of the solar car to regulations
+3. Direct the design and manufacturing decisions with subteam leads
+4. Engage sponsors to secure materials, machining, and technical supports
+5. Testing the roadworthiness of the solar car on actual tracks
+
+Besides the “formal” responsibilities, I have two personal goals as a chief engineer. 
+
+Firstly, I took the role of chief engineer to learn the most across all engineering disciplines, therefore, I try to be less in a managerial role but be an engineer by assisting the subteams with solving problems and taking on projects. 
+
+Secondly, I want to ensure all the leads and members who have trusted me to take this role to see the results of their sacrifices and time committed to this team as a lifetime achievement. 
+
+### Design of the Solar Car
+
+#### Forces on the Suspension and Chassis 
+
+The forces on the suspension system are used for all mechanical and structural simulations to ensure the safety of the car in different scenarios. The scenarios include bumps, brakes, and turns for different accelerations. For example, a [2,1,1] case represents 2g acceleration for bump, 1g for brake, and 1g for turn.
+
+The dynamic loads on each wheel can be calculated after finding the lateral and longitudinal weight transfer for different scenarios. These loads are applied to the wheel and using force body diagrams, we can calculate the forces on the mechanical components such as the lower control arm, upright, and upper control arm for our solar car, Borealis. 
+
+![](/assets/img/FBD.jpeg)
+
+#### Spring rates, Preload, and Shocks
+
+Choosing proper shocks and springs is vital for the safety of the car and the comfort of the driver. Shocks need to have the correct stroke length allowing the full bump and droop travel of the wheels. Proper springs are required for the correct ride height, comfort, and stability of the car; preload needs to be calculated to achieve the correct ride height for that particular spring. 
+
+Currently, these calculations have been performed. Moreover, I am in the process of using Ansys Motion to simulate the vertical acceleration of the driver for different spring rates. 
+
+![](/assets/img/springs.png)
+
+#### Ansys Transient Analysis 
+
+The solar car’s top shell needs to be opened for the driver to exit the car and the array to be orthogonal to the sun during charging. Utilizing Ansys, I was able to analyze the four-bar mechanism used to open and close the top shell. 
+
+![](/assets/img/top opening.mp4)
+
+#### Battery Thermal Analsys
+
+In Progress…
