@@ -12,10 +12,10 @@ Blue Sky Solar Racing website: www.blueskysolar.org
 # Tablle of Contents
 
 1. [Blue Sky Solar Racing](###Blue Sky Solar Racing)
-2. [My Role as Chief Engineer](#My Role as Chief Engineer)
-3. [Design of the Solar Car](#Design of the Solar Car)
-4. [Manufacturing of the Solar Car](#Manufacturing of the Solar Car)
-5. [Testing of the Solar Car](#Testing of the Solar Car)
+2. [My Role as Chief Engineer](###My Role as Chief Engineer)
+3. [Design of the Solar Car](###Design of the Solar Car)
+4. [Manufacturing of the Solar Car](###Manufacturing of the Solar Car)
+5. [Testing of the Solar Car](###Testing of the Solar Car)
 
 ### Blue Sky Solar Racing
 
@@ -68,3 +68,10 @@ The solar car’s top shell needs to be opened for the driver to exit the car an
 #### Battery Thermal Analsys
 
 In Progress…
+
+
+### Manufacturing of the Solar Car
+...
+
+### Testing of the Solar Car
+...
