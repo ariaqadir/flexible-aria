@@ -57,13 +57,13 @@ Choosing proper shocks and springs is vital for the safety of the car and the co
 
 Currently, these calculations have been performed. Moreover, I am in the process of using Ansys Motion to simulate the vertical acceleration of the driver for different spring rates. 
 
-![](/assets/img/springs.jpg)
+![](/assets/img/Springs.jpg)
 
 #### Ansys Transient Analysis 
 
 The solar car’s top shell needs to be opened for the driver to exit the car and the array to be orthogonal to the sun during charging. Utilizing Ansys, I was able to analyze the four-bar mechanism used to open and close the top shell. 
 
-[![](ansys.jpg)](https://www.youtube.com/watch?v=_3VnMIyA7GE)
+[![Ansys](ansys.jpg)](https://www.youtube.com/watch?v=_3VnMIyA7GE)
 
 #### Battery Thermal Analsys
 
