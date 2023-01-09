@@ -9,7 +9,7 @@ tags: [Teamwork, Club, Engineering]
 ---
 Blue Sky Solar Racing website: www.blueskysolar.org
 
-# Tablle of Contents
+# Table of Contents
 
 1. [Blue Sky Solar Racing](###Blue Sky Solar Racing)
 2. [My Role as Chief Engineer](###My Role as Chief Engineer)
@@ -57,7 +57,7 @@ Choosing proper shocks and springs is vital for the safety of the car and the co
 
 Currently, these calculations have been performed. Moreover, I am in the process of using Ansys Motion to simulate the vertical acceleration of the driver for different spring rates. 
 
-![](/assets/img/springs.png)
+![](/assets/img/springs.jpg)
 
 #### Ansys Transient Analysis 
 
