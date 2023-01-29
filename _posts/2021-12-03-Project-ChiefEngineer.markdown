@@ -13,12 +13,12 @@ Blue Sky Solar Racing website: www.blueskysolar.org
 
 1. [Blue Sky Solar Racing](###Blue Sky Solar Racing)
 2. [My Role as Chief Engineer](###My Role as Chief Engineer)
-    1. [Mechanical](####Mechanical)
-    2. [Structural and Fabrication](####Structural and Fabrication)
-    3. [Electrical](####Electrical) 
-    4. [Aerodynamics](####Aerodynamics)
-    5. [Array](####Array)
-    6. [Strategy](####Strategy)
+    1. [Mechanical](####1. Mechanical)
+    2. [Structural and Fabrication](#### 2. Structural and Fabrication)
+    3. [Electrical](#### 3. Electrical) 
+    4. [Aerodynamics](#### 4. Aerodynamics)
+    5. [Array](####5. Array)
+    6. [Strategy](#### 6. Strategy)
 3. [Testing of the Solar Car](###Testing of the Solar Car)
 
 ### Blue Sky Solar Racing
