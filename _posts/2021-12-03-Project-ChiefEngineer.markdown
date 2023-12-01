@@ -100,15 +100,17 @@ Early in my role as chief engineer, I was able to validate the safety of the mec
 
 The forces on the suspension system were used for all mechanical and structural simulations to ensure the safety of the car in different scenarios. The scenarios included bumps, brakes, and turns for different accelerations. For example, a [2,1,1] case represents 2g acceleration for bump, 1g for brake, and 1g for turn.
 
-The dynamic loads on each wheel were be calculated after finding the lateral and longitudinal weight transfer for different scenarios. These loads were applied to the wheel and using force body diagrams, we can calculate the forces on the mechanical components such as the **lower control arm, upright, and upper control arm** for our solar car. 
+The dynamic loads on each wheel were be calculated after finding the lateral and longitudinal weight transfer for different scenarios. These loads were applied to the wheel and using force body diagrams, we can calculate the forces on the mechanical components such as the lower control arm, upright, and upper control arm for our solar car. 
 
 ##### Spring rates, Preload, and Shocks
 
-![](/assets/img/Springs.jpg)
+![](/assets/img/Springs.png)
 
 I had the oppurtunity to choose the shocks and springs of the solar car. Choosing proper shocks and springs is vital for the safety of the car and the comfort of the driver. Shocks need to have the correct stroke length allowing the full bump and droop travel of the wheels. 
 
 Proper springs are required for the correct ride height, comfort, and stability of the car; preload needs to be calculated to achieve the correct ride height for that particular spring. Given the unique dynamics of our vehicle, it necessitated the custom manufacturing of springs tailored to its requirements.
+
+The table below shows the front spring parameters. The length of the spring and low spring rate required a custom manufactured spring. 
 
 | Parameter | Value  | Unit  |
 |---|---|---|
@@ -125,25 +127,32 @@ Proper springs are required for the correct ride height, comfort, and stability 
 
 ##### Ansys Transient Analysis 
 
-The solar car’s top shell needs to be opened for the driver to exit the car and the array to be orthogonal to the sun during charging. Utilizing Ansys, I was able to analyze the four-bar mechanism used to open and close the top shell. 
+The solar car’s top shell needed to be opened for the driver to exit the car and the array to be orthogonal to the sun during charging. Utilizing Ansys, I was able to analyze the four-bar mechanism used to open and close the top shell. 
 
-[![](ansys.jpg)](https://www.youtube.com/watch?v=_3VnMIyA7GE)
+![](/assets/img/ansys.jpg)
+*https://www.youtube.com/watch?v=_3VnMIyA7GE*
 
 #### 2. Structural and Fabrication
 
 ##### Canopy 
 
-We were able to improve the clarity of the canopy segnificantly based on testimonies from previous alumni of the team. The canopy was manufactured through thermoforming a PETG sheet onto a fiberglass mould. 
+The canopy pattern was made with polyurethance tooling boards and CNC machined with one our sponsors. Later, a gelcoat layer (the green color in the image below) is spray painted on the post-processed tooling board which has been sanded and primered. Next, polyester resin and fiberglass is used to create the mould. Finally, the gelcoat layer is further sanded to very high grit for maximum clarity.
 
-![](/assets/img/canopy.jpg)
+We were able to improve the clarity of the canopy segnificantly. The canopy was manufactured through thermoforming a 1/8" PETG sheet onto the fiberglass mould.
+
+As with any other manufacturing process, communication is always the key with experts. For example, the shape of the mould below was determined based on several parameters such as location of the cutline, location of the vacuum holes, and the flange as mounting point. 
 
 ![](/assets/img/canopy_mould.jpg)
+
+https://youtu.be/w0_8egBI3Bk
+
+The link above shows an older thermoforming process we performed on a tooling board directly, which was a mistake due to tooling boards absorbing moisture and while thermoforming, the moisture evaporates and creates bubbles in the final product.
 
 ##### Top Shell
 
 Manufactured the top shell of the car, made using carbon fiber and Divinycell core and utilizing vacuum infusion process to build the composite part.
 
-![](/assets/img/TopAero_Prep.jpg)
+![](/assets/img/topprep.jpg)
 
 ![](/assets/img/vacuum_infusion.jpg)
 
