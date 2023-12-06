@@ -14,14 +14,10 @@ Blue Sky Solar Racing website: www.blueskysolar.org
 1. [Blue Sky Solar Racing](###Blue Sky Solar Racing)
 2. [The 2023 Race](###The Race)
 3. [My Role as Chief Engineer](###My Role as Chief Engineer)
-    1. [Mechanical](####1. Mechanical)
-    2. [Structural and Fabrication](#### 2. Structural and Fabrication)
-    3. [Electrical](#### 3. Electrical)
-    4. [Aerodynamics](#### 4. Aerodynamics)
-    5. [Array](####5. Array)
-    6. [Strategy](#### 6. Strategy)
+   - [Mechanical](####1. Mechanical)
+   - [Structural and Fabrication](#### 2. Structural and Fabrication)
 4. [Testing of the Solar Car](###Testing of the Solar Car)
-
+----
 ### Blue Sky Solar Racing
 
 ![](/assets/img/chargingcar.jpg)
@@ -31,6 +27,8 @@ Blue Sky Solar Racing is a student-led design team at the University of Toronto,
 The team was composed of 78 students and 9 subteams. Each subteam is composed of several members with one or two subteam leads in the supervisory role. 
 
 ![](/assets/img/Technical.jpg)
+
+-----
 
 ### My Role as Chief Engineer
 
@@ -42,7 +40,16 @@ The chief engineer takes responsibility for all the technical subteams. I took t
 4. Engage sponsors to secure materials, machining, and technical supports
 5. Testing the roadworthiness of the solar car on actual tracks
 
+-----
+
 ### The 2023 Race
+
+Some cool videos of the race:
+- A short drone footage: [Blue Sky Solar Racing Highlight Reel 4k Bridgestone World Solar Challenge 2023 (Youtube)](https://tinyurl.com/3epad325)
+- A long race drone footage: [Blue Sky Solar Racing BWSC 2023 Recap 1080p (Youtube)](https://tinyurl.com/muejaya3)
+
+Images from the race: [flickr](https://www.flickr.com/photos/blueskysolar/)
+
 
 The 2023 World Solar Challenge held special significance for our team. The COVID-19 pandemic resulted in the cancellation of the 2021 race, halting our participation for four years. As we finally returned to compete, there was a palpable sense of newness and enthusiasm among the team members, fueled by the excitement of resuming the race after such a prolonged hiatus.
 
@@ -90,7 +97,8 @@ I am glad the next design cycle has already started. It is inspiring to see new 
 
 ![](/assets/img/wscfinish.jpg)
 
-#### 1. Mechanical
+---------
+#### Mechanical
 
 ##### Forces on the Suspension and Chassis
 
@@ -132,7 +140,9 @@ The solar car’s top shell needed to be opened for the driver to exit the car a
 ![](/assets/img/ansys.jpg)
 *https://www.youtube.com/watch?v=_3VnMIyA7GE*
 
-#### 2. Structural and Fabrication
+-------
+
+#### Structural and Fabrication
 
 ##### Canopy 
 
@@ -150,24 +160,30 @@ The link above shows an older thermoforming process we performed on a tooling bo
 
 ##### Top Shell
 
-Manufactured the top shell of the car, made using carbon fiber and Divinycell core and utilizing vacuum infusion process to build the composite part.
+The top shell of the solar car was manufactured through a resin-infusion process. Previously our team has been fortunate to use Bombardier's autoclave within their C series program. However, the pandemic unfortunately terminated that option. Therefore, we dialed to resin-infusion, a process no member or even alumni was familiar with. 
+
+Despite this unfamiliarity, we successfully executed the resin-infusion process. Resin-infusion is all about preperation. The actual infusion of resin typically spans 1-2 hours, depending on the viscosity of the resin and the complexity of the part's shape. The initial image illustrates the first layer of carbon fiber laid on the mold using spray adhesive, with utmost care to prevent wrinkles. Subsequent layers of carbon are added alongside the foam core (Divinycell). The second image showcases the resin-infusion phase: the resin flows into the mold's center via tubes and, upon reaching the mold's periphery, enters exit tubes connected to a vacuum.
+
+The final image captures the moment when we successfully removed the part from the mold. This is the most exiting part of the whole manufacturing process, all the work going back to plug, machining, days of sanding, fiberglass mould, and post-processing results in an actual part for the solar car. Manufacturing is indeed eye opening. 
+
+"Understaning manufacturing as an engineer, gives you utmost respect from technicians" - A manufacturing sponsor
 
 ![](/assets/img/topprep.jpg)
 
-![](/assets/img/vacuum_infusion.jpg)
+![](/assets/img/topinfusion.jpg)
 
 ![](/assets/img/toppart.jpg)
 
-##### Composite Rollcage
-
-The composite rollcage will allow us to reduce the weight of the car by 10 Kg, instead of a tubular-steel metal rollcage. 
-
-**Coming Soon!**
-
-#### 3. Electrical
-#### 4. Aerodynamics
-#### 5. Array
-#### 6. Strategy
-
+----
 
 ### Testing of the Solar Car
+
+Testing of the solar car again and again gave us reliability at the end. The team went through days and days of testing over the months. Including testing on the university campus, testing on parking lots, testing on race tracks, and on actual roads. 
+
+The testing days were hard. Beside the logistics aspect, there were many technical issues the team had to fix. Staying all night to fix a problem a day before the race was a common theme. However, without testing we would have had serious problems during the actual race.
+
+The electrical team was dealing with issues like a blown isolator, lose of commmunication due to poor ethernet connections, wrong voltage and current readings, Battery Management System not working, voltage converters not working, and many more. Solar cars require a complex electrical system architecture not really seen in any other student design teams. The reliability we were able to achieve during the race was a result of many real world testings. 
+
+The mechanical team had to fix many issues as well prior to the race. An example I find interesting is a thread getting seized. During the initial testing days, we were experiencing a certain thread on the wheel hub getting seized randomly, no matter how much torque we applied, we could not loosen it. This issue popped up multiple times and every time we had to cut through the aluminum part and totally break it. Machining those parts was very expensive as well. One day, after some research I was able to find the source of the problem: Galling. Galling is a phenomenon that happens when similar metals (usually aluminum) get welded to each other in a high friction low torque manner due to its high ductility. The solution was a $20 anti-seize. Anodization is a solution as well due to increasing the surface hardness, however, a more expensive option. 
+
+![](/assets/img/hubs.jpg)
