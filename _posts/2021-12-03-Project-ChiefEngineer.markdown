@@ -9,20 +9,18 @@ tags: [Teamwork, Club, Engineering]
 ---
 Blue Sky Solar Racing website: www.blueskysolar.org
 
-# Table of Contents
 
-- [Table of Contents](#table-of-contents)
-    - [Blue Sky Solar Racing](#blue-sky-solar-racing)
-    - [My Role as Chief Engineer](#my-role-as-chief-engineer)
-    - [The 2023 Race](#the-2023-race)
-      - [Mechanical](#mechanical)
-        - [Forces on the Suspension and Chassis](#forces-on-the-suspension-and-chassis)
-        - [Spring rates, Preload, and Shocks](#spring-rates-preload-and-shocks)
-        - [Ansys Transient Analysis](#ansys-transient-analysis)
-      - [Structural and Fabrication](#structural-and-fabrication)
-        - [Canopy](#canopy)
-        - [Top Shell](#top-shell)
-    - [Testing of the Solar Car](#testing-of-the-solar-car)
+- [Blue Sky Solar Racing](#blue-sky-solar-racing)
+- [My Role as Chief Engineer](#my-role-as-chief-engineer)
+- [The 2023 Race](#the-2023-race)
+  - [Mechanical](#mechanical)
+    - [Forces on the Suspension and Chassis](#forces-on-the-suspension-and-chassis)
+    - [Spring rates, Preload, and Shocks](#spring-rates-preload-and-shocks)
+    - [Ansys Transient Analysis](#ansys-transient-analysis)
+  - [Structural and Fabrication](#structural-and-fabrication)
+    - [Canopy](#canopy)
+    - [Top Shell](#top-shell)
+- [Testing of the Solar Car](#testing-of-the-solar-car)
 
 ----
 ### Blue Sky Solar Racing
