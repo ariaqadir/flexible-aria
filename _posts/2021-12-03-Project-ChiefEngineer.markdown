@@ -11,12 +11,19 @@ Blue Sky Solar Racing website: www.blueskysolar.org
 
 # Table of Contents
 
-1. [Blue Sky Solar Racing](###Blue Sky Solar Racing)
-2. [The 2023 Race](###The Race)
-3. [My Role as Chief Engineer](###My Role as Chief Engineer)
-   - [Mechanical](####1. Mechanical)
-   - [Structural and Fabrication](#### 2. Structural and Fabrication)
-4. [Testing of the Solar Car](###Testing of the Solar Car)
+- [Table of Contents](#table-of-contents)
+    - [Blue Sky Solar Racing](#blue-sky-solar-racing)
+    - [My Role as Chief Engineer](#my-role-as-chief-engineer)
+    - [The 2023 Race](#the-2023-race)
+      - [Mechanical](#mechanical)
+        - [Forces on the Suspension and Chassis](#forces-on-the-suspension-and-chassis)
+        - [Spring rates, Preload, and Shocks](#spring-rates-preload-and-shocks)
+        - [Ansys Transient Analysis](#ansys-transient-analysis)
+      - [Structural and Fabrication](#structural-and-fabrication)
+        - [Canopy](#canopy)
+        - [Top Shell](#top-shell)
+    - [Testing of the Solar Car](#testing-of-the-solar-car)
+
 ----
 ### Blue Sky Solar Racing
 
