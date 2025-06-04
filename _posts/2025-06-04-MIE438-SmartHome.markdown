@@ -8,3 +8,11 @@ fig-caption: # Add figcaption (optional)
 tags: [Teamwork, Club, Engineering]
 ---
 
+[Project Video](https://youtu.be/AboBtPy3Abc?si=dfY4FVKgFEML-8DS)
+
+### What?
+
+Designing and building a smart home thermostat using an ESP32 microcontroller, capable of controlling a fan and heater based on thermistor sensor readings, with the ability to override settings via voice commands or wireless control through a web interface
+
+### How?
+
