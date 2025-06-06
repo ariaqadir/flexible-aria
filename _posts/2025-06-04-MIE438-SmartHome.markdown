@@ -45,7 +45,8 @@ Designing and building a smart home thermostat using an ESP32 microcontroller, c
 - Temperature control logic included hysteresis to avoid rapid toggling of the fan and heater around threshold values, improving system stability and extending component lifespan.
 - A responsive HTML web interface was hosted on the ESP32, allowing users to wirelessly monitor temperature and switch between manual and automatic control modes for both the fan and heater.
 
-![](/assets/img/smarthomesoftware.png)
+<img src="/assets/img/smarthomesoftware.png" alt="Description" style="width:50%;">
+
 
 ### Mistakes?
 
