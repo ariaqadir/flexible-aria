@@ -32,12 +32,16 @@ Designing and building a smart home thermostat using an ESP32 microcontroller, c
   - **Serial**: Used to control relays.
   - **PWM**: Implemented for controlling fan speed (RPM).
 
-![Smart Home Circuit Diagram](/assets/img/smarthomesch.png)
+<div align="center">
+  <img src="/assets/img/smarthomesch.png" alt="Description" style="width:50%;">
+</div>
 
 - All components were **soldered onto a prototyping board** using 22-gauge wires.
 - **Male and female headers** were used to ensure components were modular and easily replaceable.
 
-![Smart Home Soldering](/assets/img/SmartHomeSoldering.jpg)
+<div align="center">
+  <img src="/assets/img/SmartHomeSoldering.jpg" alt="Description" style="width:50%;">
+</div>
 
 #### Software
 
