@@ -8,3 +8,37 @@ fig-caption: # Add figcaption (optional)
 tags: [Teamwork, Engineering]
 ---
 
+### What? 
+
+- **Designing** a composite lower control arm for a solar car's suspension. The part will need to handle various loading conditions as the solar car hits bumps, corners, and brakes. 
+
+- **Simulations** need to be performed to find critical stress concentration areas on the composite part. 
+
+- **Manufacture** the part with special manufacturing processes for composites. 
+
+- **Test** the part either in destructive or non-destrictive tests to verify the simualtion results.
+
+### How?
+
+- **Design:** The design considered three possible designs and finally diverged to a sandwich panel design. Sandwich panels performed superior as the loading condition included bending; without bending tubular designs would have worked as commonly done in Formula 1 race cars as shown below. 
+
+<div align="center">
+  <img src="/assets/img/suspensionHallow.jpg" alt="Description" style="width:50%;">
+</div>
+
+However, with the design of the solar car's suspension, a foam core was needed to make sure the fiber does not buckle locally and dramatically increase the second moment of inertia against bending. 
+
+<div align="center">
+  <img src="/assets/img/CapstoneAssembly.png" alt="Description" style="width:50%;">
+</div>
+
+The image above shows the shock absorber connected to the middle of the lower control arm, exhausting considerable force in bumps causing a three-point bend phenomenon on the control arm. 
+
+In summary the final design consisted of 8 layers of spreadtow carbon fiber with a 1" Rohacell 200 HERO in between. This design increased bending strength considerably than npn-sandwich panel designs, attachments to chassis and wheel was done through metal parts attached with epoxy adhesives. The image below shows the design in CAD. 
+
+<div align="center">
+  <img src="/assets/img/CapstoneLCA.png.png" alt="Description" style="width:50%;">
+</div>
+
+
+
