@@ -25,7 +25,7 @@ Fabricated the complete solar car, including composite chassis from tooling to l
 </div>
 
 <div align="center">
-  <img src="/assets/img/fab_mould.JPG" alt="Description" style="width:50%;">
+  <img src="/assets/img/fab_mould.jpg" alt="Description" style="width:50%;">
   <em>Aerobody chassis fiberglass mould with orange gelcoat layer</em>
 </div>
 
@@ -35,7 +35,7 @@ Fabricated the complete solar car, including composite chassis from tooling to l
 </div>
 
 <div align="center">
-  <img src="/assets/img/fab_primer.jpg" alt="Description" style="width:50%;">
+  <img src="/assets/img/fab_primer.JPG" alt="Description" style="width:50%;">
   <em>Spraying primer on the final fabricated part after post-processing to be paint ready</em>
 </div>
 
