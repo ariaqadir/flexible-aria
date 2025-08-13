@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Teamwork, Engineering]
 ---
 
-### What? 
+### Problem 
 
 - **Designing** a composite lower control arm for a solar car's suspension. The part will need to handle various loading conditions as the solar car hits bumps, corners, and brakes. 
 
@@ -18,7 +18,7 @@ tags: [Teamwork, Engineering]
 
 - **Test** the part either in destructive or non-destrictive tests to verify the simualtion results.
 
-### How?
+### Process
 
 - **Design:** The design considered three possible designs and finally diverged to a sandwich panel design. 
 
@@ -62,14 +62,14 @@ The free-body diagram equations was fed into MATLAB to find the point loads base
 
 <div align="center">
   <img src="/assets/img/Capstone_Loads.png" alt="Description" style="width:50%;">
-  <em>CAD design with metal attachements</em>
+  <em>CAD design with metal attachments</em>
 </div>
 
 Finally, theoretical analysis was performed on the final design before simulations. A three-point bend model was used for the analysis. T. C. TRIANTAFILLOU and L. J. GIBSON provide the necessary equations for various failure modes as shown in the table below. 
 
 <div align="center">
   <img src="/assets/img/Capstone_Equations.png" alt="Description" style="width:50%;">
-  <em>T. C. TRIANTAFILLOU and L. J. GIBSON failure equations for a sandwich pane</em>
+  <em>T. C. TRIANTAFILLOU and L. J. GIBSON failure equations for a sandwich panel</em>
 </div>
 
 - **Simulations:** Simulated the designs in ANSYS Composite PrepPost (ACP), applying Maximum Stress and Strain criteria for conservative estimates and Tsai-Wu theory for more accurate results. Material data was acquired from Blue Sky team material data through coupon tests, the load points found previously was used as boundary conditions; FEA results were compared against throretical calculations. 
@@ -86,7 +86,7 @@ The highest stress in the component was found at the shock interface where the s
   <em>Simulation results showing critical stress at the shock interface</em>
 </div>
 
-The metal clevis was redesigned to reduce stress concentration as shown below. This resulted in reducing stress dramatically, achieving the desired safety factor of 1.5. Moreover, the fiber layers and core thickness were parameterized to reach an optimal design for strength. 
+Therefore, the metal clevis was redesigned to reduce stress concentration as shown below. This resulted in reducing stress dramatically, achieving the desired safety factor of 1.5. Moreover, the fiber layers and core thickness were parameterized to reach an optimal design for strength. 
 
 <div align="center">
   <img src="/assets/img/Capstone_clevis.png" alt="Description" style="width:50%;">
@@ -101,7 +101,7 @@ The metal clevis was redesigned to reduce stress concentration as shown below. T
 </div>
 
 <div align="center">
-  <img src="/assets/img/Capstone_failure1.png" alt="Description" style="width:50%;">
+  <img src="/assets/img/Capstone_failure.png" alt="Description" style="width:50%;">
   <em>Delamination due to epoxy no wetting all the layers</em>
 </div>
 
@@ -110,7 +110,7 @@ The metal clevis was redesigned to reduce stress concentration as shown below. T
   <em>Delamination</em>
 </div>
 
-- **Test** The manufactured part was cut into a triangular section containing the critical stress location. The sample was put in a three-point bend test to compare simulation results to test results for verification. 
+- **Test:** The manufactured part was cut into a rectangular section containing the critical stress location. The sample was put in a three-point bend test to compare simulation results to test results for verification. 
 
 <div align="center">
   <img src="/assets/img/Capstone_simbending.png" alt="Description" style="width:50%;">
@@ -122,11 +122,13 @@ The metal clevis was redesigned to reduce stress concentration as shown below. T
   <em>Testing the rectangular section on an Intron machine to compare to simulation results</em>
 </div>
 
+### Results
+
 The sample failed at 6000 N. It's important to note the tested sample was 1/2 inch in thickness, the designed thickness was 1 inch, however, we were not able to get such a thickness in time for testing. To overcome this, we theoretically were able to translate the desired failure load point to 1/2 inch and the goal was 6000 N and we achieved it with a final safety factor of 1.4. 
 
 <div align="center">
   <img src="/assets/img/Capstone_results.png" alt="Description" style="width:50%;">
-  <em>The blue line is with the filleted metal clevis design. The sample failed at a safety factor of 1.4.</em>
+  <em>The blue line is with the filleted metal clevis design. The sample failed at a safety factor of 1.4</em>
 </div>
 
 
