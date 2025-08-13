@@ -24,6 +24,7 @@ tags: [Teamwork, Engineering]
 
 <div align="center">
   <img src="/assets/img/suspensionHallow.jpg" alt="Description" style="width:50%;">
+  <em>Hello test</em>
 </div>
 
 However, with the design of the solar car's suspension, a foam core was needed to make sure the fiber does not buckle locally and dramatically increase the second moment of inertia against bending. 
