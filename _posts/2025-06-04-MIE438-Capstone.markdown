@@ -20,26 +20,116 @@ tags: [Teamwork, Engineering]
 
 ### How?
 
-- **Design:** The design considered three possible designs and finally diverged to a sandwich panel design. Sandwich panels performed superior as the loading condition included bending; without bending tubular designs would have worked as commonly done in Formula 1 race cars as shown below. 
+- **Design:** The design considered three possible designs and finally diverged to a sandwich panel design. 
+
+<div align="center">
+  <img src="/assets/img/Capstone_Designs.png" alt="Description" style="width:50%;">
+  <em>The three possible designs</em>
+</div>
+  
+Sandwich panels performed superior as the loading condition included bending; without bending tubular designs would have worked as commonly done in Formula 1 race cars as shown below. 
 
 <div align="center">
   <img src="/assets/img/suspensionHallow.jpg" alt="Description" style="width:50%;">
-  <em>Hello test</em>
+  <em>Formula 1 composite control arm design</em>
 </div>
 
-However, with the design of the solar car's suspension, a foam core was needed to make sure the fiber does not buckle locally and dramatically increase the second moment of inertia against bending. 
+However, with the design of the solar car's suspension, a foam core was needed to make sure the fiber does not buckle locally and to dramatically increase the second moment of inertia against bending. 
+
 
 <div align="center">
-  <img src="/assets/img/CapstoneAssembly.png" alt="Description" style="width:50%;">
+  <img src="/assets/img/CapstoneAssembly.png" alt="Description" style="width:40%;">
+  <em>The lower control arm design within the suspension assembly</em>
 </div>
 
 The image above shows the shock absorber connected to the middle of the lower control arm, exhausting considerable force in bumps causing a three-point bend phenomenon on the control arm. 
 
-In summary the final design consisted of 8 layers of spreadtow carbon fiber with a 1" Rohacell 200 HERO in between. This design increased bending strength considerably than npn-sandwich panel designs, attachments to chassis and wheel was done through metal parts attached with epoxy adhesives. The image below shows the design in CAD. 
+<div align="center">
+  <img src="/assets/img/CapstoneLCA.png" alt="Description" style="width:50%;">
+  <em>CAD design with metal attachements</em>
+</div>
+
+The final design consisted of 8 layers of spreadtow carbon fiber with a 1" Rohacell 200 HERO in between. This design increased bending strength considerably than non-sandwich panel designs, attachments to chassis and wheel was done through metal parts attached with epoxy adhesives.
+
+Morevoer, the load path analysis on the suspension was performed to find loads in different driving scenarios of bump, brake, and turn. The image below shows a part of the free-body diagram analysis.
 
 <div align="center">
-  <img src="/assets/img/CapstoneLCA.png.png" alt="Description" style="width:50%;">
+  <img src="/assets/img/Capstone_FBD.png" alt="Description" style="width:50%;">
+  <em>Free-body diagram of the suspension in YZ plane</em>
 </div>
+
+The free-body diagram equations was fed into MATLAB to find the point loads based on different driving conditions. The table below is the point loads. 
+
+<div align="center">
+  <img src="/assets/img/Capstone_Loads.png" alt="Description" style="width:50%;">
+  <em>CAD design with metal attachements</em>
+</div>
+
+Finally, theoretical analysis was performed on the final design before simulations. A three-point bend model was used for the analysis. T. C. TRIANTAFILLOU and L. J. GIBSON provide the necessary equations for various failure modes as shown in the table below. 
+
+<div align="center">
+  <img src="/assets/img/Capstone_Equations.png" alt="Description" style="width:50%;">
+  <em>T. C. TRIANTAFILLOU and L. J. GIBSON failure equations for a sandwich pane</em>
+</div>
+
+- **Simulations:** Simulated the designs in ANSYS Composite PrepPost (ACP), applying Maximum Stress and Strain criteria for conservative estimates and Tsai-Wu theory for more accurate results. Material data was acquired from Blue Sky team material data through coupon tests, the load points found previously was used as boundary conditions; FEA results were compared against throretical calculations. 
+
+<div align="center">
+  <img src="/assets/img/Capstone_boundary.png" alt="Description" style="width:50%;">
+  <em>Boundary conditions of the sandwich panel design in ANSYS</em>
+</div>
+
+The highest stress in the component was found at the shock interface where the sharp edge of the metal indents the core and causes failure.
+
+<div align="center">
+  <img src="/assets/img/Capstone_simfull.png" alt="Description" style="width:50%;">
+  <em>Simulation results showing critical stress at the shock interface</em>
+</div>
+
+The metal clevis was redesigned to reduce stress concentration as shown below. This resulted in reducing stress dramatically, achieving the desired safety factor of 1.5. Moreover, the fiber layers and core thickness were parameterized to reach an optimal design for strength. 
+
+<div align="center">
+  <img src="/assets/img/Capstone_clevis.png" alt="Description" style="width:50%;">
+  <em>Redesign of the clevis included a fillet to distribute the stress</em>
+</div>
+
+- **Manufacture:** The component was manufactured with spread-tow fiber and ROHACELL 200 HERO foam. Initially, vacuum infusion was used. However, epoxy failed to wet all the layers as spread-tow is densely packed. Therefore, for the second trial wet-layup method was used, even though wet-layup increases manufacturing inconsistency, it allows all the layers to my wetted as desired. 
+
+<div align="center">
+  <img src="/assets/img/Capstone_infusion.png" alt="Description" style="width:50%;">
+  <em>Vacuum infusion of the part</em>
+</div>
+
+<div align="center">
+  <img src="/assets/img/Capstone_failure1.png" alt="Description" style="width:50%;">
+  <em>Delamination due to epoxy no wetting all the layers</em>
+</div>
+
+<div align="center">
+  <img src="/assets/img/Capstone_failure2.png" alt="Description" style="width:50%;">
+  <em>Delamination</em>
+</div>
+
+- **Test** The manufactured part was cut into a triangular section containing the critical stress location. The sample was put in a three-point bend test to compare simulation results to test results for verification. 
+
+<div align="center">
+  <img src="/assets/img/Capstone_simbending.png" alt="Description" style="width:50%;">
+  <em>Simulation of the rectangular section in ANSYS</em>
+</div>
+
+<div align="center">
+  <img src="/assets/img/Instron.jpg" alt="Description" style="width:50%;">
+  <em>Testing the rectangular section on an Intron machine to compare to simulation results</em>
+</div>
+
+The sample failed at 6000 N. It's important to note the tested sample was 1/2 inch in thickness, the designed thickness was 1 inch, however, we were not able to get such a thickness in time for testing. To overcome this, we theoretically were able to translate the desired failure load point to 1/2 inch and the goal was 6000 N and we achieved it with a final safety factor of 1.4. 
+
+<div align="center">
+  <img src="/assets/img/Capstone_results.png" alt="Description" style="width:50%;">
+  <em>The blue line is with the filleted metal clevis design. The sample failed at a safety factor of 1.4.</em>
+</div>
+
+
 
 
 
